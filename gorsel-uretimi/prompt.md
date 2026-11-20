@@ -1,0 +1,11 @@
+# Görsel Üretimi Görevi
+
+## Verilen Prompt
+
+> İnsan benzeri özellikler taşıyan, neşeli ve komik bir hamam böceğinin yer aldığı, canlı ve mizahi bir dijital illüstrasyon. Tam boy olarak resmedilmiş bu karakter, kahkahalara boğulmuş bir halde, son derece eğlenceli bir kişiliğe sahip. İnsan gibi arka ayakları üzerinde dik duruyor; büyük, etkileyici çizgi film gözleri, minik kaşları ve ağzı son derece geniş bir şekilde açılmış, içten bir kahkahası var; yüz hatları neşe ve mizah dolu. İnsan koluna benzeyen ön uzuvlarını aktif bir şekilde kullanarak kahkahasını destekliyor; bir eliyle karnını tutarken, diğer eliyle şakacı bir jest yapıyor. Üzerinde tuhaf, komik ve stilize kıyafetler var; örneğin, biraz eski püskü, renkli bir Hawaii gömleği ve birbirine uymayan, karikatürize spor ayakkabılar giymiş. Sırtında hamam böceklerine özgü kanatları bulunuyor ve uzun, kıvrımlı antenleri oldukça hareketli ve neşeli bir ifade sergiliyor. Sanki çok komik bir şaka duymuş gibi, kahkahadan hafifçe öne doğru eğilmiş; bir eli karnına yapışmış durumda. Mekân, bir böceğin bakış açısından, yani oldukça alçak bir noktadan görünen, karikatürize bir iç mekân; belki de bir mutfak ya da kiler köşesi. Orta planda, karakterin küçük boyutunu vurgulayan devasa nesneler (kocaman bir masa ayağı, devasa bir yemek kırıntısı, yere düşmüş bir şişe kapağı ve renkli ambalajlar) hafif bulanık bir şekilde seçiliyor. Ortamda sıcak ve zengin bir iç mekân aydınlatması hâkim; havada uçuşan toz zerreleri veya ışıltılar, sahneye animasyon filmlerini andıran fantastik ve canlı bir hava katıyor. Sanat tarzı; Pixar veya DreamWorks yapımlarını anımsatan, belirgin ve etkileyici hatlara, sıcak ışıklandırmaya ve gerçekçi olmaktan ziyade stilize edilmiş dokusal detaylara sahip, zengin bir 3D animasyon stili. Hamam böceği gövdesinde toprak tonları (kahverengiler ve turuncular) kullanılırken, renkli kıyafetleri ve doğal parıltıları karakterin mizahi ve dikkat çekici cazibesini ön plana çıkarıyor. Karakterin tüm vücudunu ve ölçeğini vurgulamak için hafif geniş açılı bir lensle, yere çok yakın bir noktadan çekilmiş gibi kurgulanmış. Metin içermiyor. --ar 16:9
+
+## Karşılaştırılan Araçlar
+
+- Gemini (Google Imagen 3)
+- ChatGPT (Image Generation)
+- Microsoft Copilot
